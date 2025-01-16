@@ -1,6 +1,4 @@
-Based on the given template format, here is the updated Markdown file for your GitHub profile README.md:
 
-```markdown
 # Hi, I'm Dhruv Gupta! 👋
 
 **Artificial Intelligence Enthusiast | IT Student | Machine Learning Explorer**
@@ -68,6 +66,4 @@ Based on the given template format, here is the updated Markdown file for your G
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
-```
 
-Replace the placeholder URLs with your actual links, and let me know if you'd like further customization!
