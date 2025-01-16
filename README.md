@@ -1,7 +1,7 @@
 
 # Hi, I'm Dhruv Gupta! 👋
 
-**Artificial Intelligence Enthusiast | IT Student | Machine Learning Explorer**
+**Artificial Intelligence Enthusiast | Machine Learning Explorer | IT Student **
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
 [![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@dhruv06012)
