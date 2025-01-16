@@ -1,37 +1,83 @@
-# Hi there, I'm Dhruv! 👋
+## Hi there, I'm Dhruv Gupta! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning new technologies and solving challenging problems. Here's a little more about me:
+![Profile Views](https://komarev.com/ghpvc/?username=Dhruv0126&color=blue&style=flat-square)
 
-## 🚀 About Me
+### About Me
+- 🌐 Passionate IT student at Gautam Buddha University (GPA: 9.00/10.00).
+- 🔬 Experienced in data analysis, machine learning, and AI-driven solutions.
+- 🚀 Currently exploring cutting-edge technologies in AI, ML, and computer vision.
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[Technologies or Courses You Are Learning]**
-- 👯 I’m looking to collaborate on **[Open Source Projects or Areas of Interest]**
-- 🤔 I’m looking for help with **[Any Specific Challenges or Projects]**
-- 💬 Ask me about **[Your Expertise or Areas of Knowledge]**
-- 📫 How to reach me: **[Your Email or Social Media Handles]**
-- 😄 Pronouns: **They/Them**
-- ⚡ Fun fact: **[A Fun Fact About You]**
+---
 
-## 🛠️ Technologies & Tools
+### 📊 GitHub Stats
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div align="center">
 
-## 📊 GitHub Stats
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical)
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0126&layout=compact&theme=radical)
 
-## 📫 Connect with Me
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+---
 
-Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on any projects. 😊
+### 🔧 Tools & Technologies
+
+- **Programming Languages:** Python, SQL, C++
+- **AI/ML Tools:** TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV
+- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Other Tools:** VS Code, Git
+
+---
+
+### 🔬 Experience
+
+#### Data Analyst Intern @ NULLCLASS (Jul 2024)
+- Developed a real-time Twitter Analytical Dashboard using Power BI.
+- Integrated ETL processes and DAX queries for actionable insights on social media trends.
+
+#### Machine Learning Intern @ Bharat Intern (Jun 2024)
+- Built a Random Forest regression model to predict house prices in Python.
+- Developed a movie recommendation system using user-based collaborative filtering.
+
+---
+
+### 🔄 Projects
+
+#### [Fake Review Detection](https://github.com/Dhruv0126/Fake-Review-Detection)
+- Machine Learning: SVM, TF-IDF, LIME, SHAP
+- Web Development: Flask, HTML5, CSS3, JavaScript
+- Built a real-time platform for review analysis and model retraining.
+
+#### [Google Stock Forecasting](https://github.com/Dhruv0126/Google_Stock_Price_forecasting-)
+- Predictive Modeling: ANN (RNN), LSTM
+- Tools: TensorFlow, Scikit-Learn, Matplotlib
+- Forecasted Google stock prices with high accuracy.
+
+#### [BodyFunDetector Analyzer](https://github.com/Dhruv0126/BodyFuncDetector_Analyzer-)
+- Technologies: OpenCV, PoseNet, cv2, cvzone
+- Developed a real-time body function detector for human movement analysis.
+
+#### Other Projects
+- Wine Quality Check: Neural network for wine classification.
+- Salary Prediction Model: Linear Regression model for salary prediction.
+
+---
+
+### 🌍 Connect with Me
+
+- LinkedIn: [linkedin.com/in/dhruvgupta0126](https://linkedin.com/in/dhruvgupta0126)
+- Email: [dhruv06012@gmail.com](mailto:dhruv06012@gmail.com)
+- GitHub: [github.com/Dhruv0126](https://github.com/Dhruv0126)
+
+---
+
+### 🛠️ Certifications
+
+- Data Science Specialization - LinuxWorld
+- Data Analytics and Visualization Job Simulation - Accenture (Forage)
+- Deploy Machine Learning Solutions - Devtown (Microsoft Learn & GDG Ranchi)
+
+---
+
+Let’s collaborate on exciting projects in AI, ML, and financial trading bots! Feel free to reach out. 🚀
