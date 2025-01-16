@@ -1,83 +1,73 @@
-## Hi there, I'm Dhruv Gupta! 👋
+Based on the given template format, here is the updated Markdown file for your GitHub profile README.md:
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhruv0126&color=blue&style=flat-square)
+```markdown
+# Hi, I'm Dhruv Gupta! 👋
 
-### About Me
-- 🌐 Passionate IT student at Gautam Buddha University (GPA: 9.00/10.00).
-- 🔬 Experienced in data analysis, machine learning, and AI-driven solutions.
-- 🚀 Currently exploring cutting-edge technologies in AI, ML, and computer vision.
+**Artificial Intelligence Enthusiast | IT Student | Machine Learning Explorer**
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0126&layout=compact&theme=radical)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@yourmediumprofile)
 
 ---
 
-### 🔧 Tools & Technologies
+### 📊 Dhruv's GitHub Stats
 
-- **Programming Languages:** Python, SQL, C++
-- **AI/ML Tools:** TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
-- **Other Tools:** VS Code, Git
+![Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical)
 
 ---
 
-### 🔬 Experience
-
-#### Data Analyst Intern @ NULLCLASS (Jul 2024)
-- Developed a real-time Twitter Analytical Dashboard using Power BI.
-- Integrated ETL processes and DAX queries for actionable insights on social media trends.
-
-#### Machine Learning Intern @ Bharat Intern (Jun 2024)
-- Built a Random Forest regression model to predict house prices in Python.
-- Developed a movie recommendation system using user-based collaborative filtering.
-
----
-
-### 🔄 Projects
+### 📂 Featured Projects
 
 #### [Fake Review Detection](https://github.com/Dhruv0126/Fake-Review-Detection)
-- Machine Learning: SVM, TF-IDF, LIME, SHAP
-- Web Development: Flask, HTML5, CSS3, JavaScript
-- Built a real-time platform for review analysis and model retraining.
+- Utilized **SVM, TF-IDF**, and explainability tools like **LIME** and **SHAP**.
+- Built with **Flask, HTML5, CSS3**, and **JavaScript** for real-time review analysis.
 
 #### [Google Stock Forecasting](https://github.com/Dhruv0126/Google_Stock_Price_forecasting-)
-- Predictive Modeling: ANN (RNN), LSTM
-- Tools: TensorFlow, Scikit-Learn, Matplotlib
-- Forecasted Google stock prices with high accuracy.
+- Developed predictive models using **ANN (RNN)** and **LSTM**.
+- Tools: **TensorFlow, Scikit-Learn, Matplotlib**.
 
-#### [BodyFunDetector Analyzer](https://github.com/Dhruv0126/BodyFuncDetector_Analyzer-)
-- Technologies: OpenCV, PoseNet, cv2, cvzone
-- Developed a real-time body function detector for human movement analysis.
-
-#### Other Projects
-- Wine Quality Check: Neural network for wine classification.
-- Salary Prediction Model: Linear Regression model for salary prediction.
+#### [Body Function Detector Analyzer](https://github.com/Dhruv0126/BodyFuncDetector_Analyzer-)
+- Real-time human movement analysis using **OpenCV, PoseNet**, and **cvzone**.
 
 ---
 
-### 🌍 Connect with Me
+### 🧠 Skills
 
-- LinkedIn: [linkedin.com/in/dhruvgupta0126](https://linkedin.com/in/dhruvgupta0126)
-- Email: [dhruv06012@gmail.com](mailto:dhruv06012@gmail.com)
-- GitHub: [github.com/Dhruv0126](https://github.com/Dhruv0126)
-
----
-
-### 🛠️ Certifications
-
-- Data Science Specialization - LinuxWorld
-- Data Analytics and Visualization Job Simulation - Accenture (Forage)
-- Deploy Machine Learning Solutions - Devtown (Microsoft Learn & GDG Ranchi)
+**Programming Languages**: Python, C++, SQL  
+**AI/ML Tools**: TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV  
+**Data Visualization**: Power BI, Matplotlib, Seaborn  
+**Other Tools**: Git, VS Code  
 
 ---
 
-Let’s collaborate on exciting projects in AI, ML, and financial trading bots! Feel free to reach out. 🚀
+### 🔭 I’m currently working on
+- Building **AI-based financial trading bots** for stock market predictions.
+- Enhancing **Fake Review Detection** platforms with real-time updates.
+
+### 👯 I’m looking to collaborate on
+- AI-powered solutions in **Natural Language Processing** and **Computer Vision**.
+- Research projects in **transformer models** and **data visualization**.
+
+### 🤝 I’m looking for help with
+- Deploying **Machine Learning models** at scale with optimal efficiency.
+
+### 🌱 I’m currently learning
+- Advanced concepts in **Reinforcement Learning** and **LLMs (Large Language Models)**.
+
+### 💬 Ask me about
+- AI/ML model optimization and deployment.
+- Financial trading systems using AI.
+
+### ⚡ Fun fact
+- I love connecting neural networks as much as exploring nature trails!
+
+---
+
+### 🎯 Let’s Create Something Amazing Together!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+```
+
+Replace the placeholder URLs with your actual links, and let me know if you'd like further customization!
