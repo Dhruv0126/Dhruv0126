@@ -3,9 +3,8 @@
 
 **Artificial Intelligence Enthusiast | IT Student | Machine Learning Explorer**
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blue)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@yourmediumprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
+[![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@dhruv06012)
 
 ---
 
@@ -32,35 +31,28 @@
 
 ### 🧠 Skills
 
-**Programming Languages**: Python, C++, SQL  
-**AI/ML Tools**: TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV  
-**Data Visualization**: Power BI, Matplotlib, Seaborn  
-**Other Tools**: Git, VS Code  
+**Programming Languages**:  
+![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python) 
+![C++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c%2B%2B) 
+![SQL](https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=postgresql)  
 
----
+**AI/ML Tools**:  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=tensorflow) 
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f9a03c?style=plastic&logo=scikit-learn) 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=plastic&logo=opencv)  
 
-### 🔭 I’m currently working on
-- Building **AI-based financial trading bots** for stock market predictions.
-- Enhancing **Fake Review Detection** platforms with real-time updates.
+**Data Visualization**:  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=power-bi) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=plastic&logo=python) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=plastic&logo=python)  
 
-### 👯 I’m looking to collaborate on
-- AI-powered solutions in **Natural Language Processing** and **Computer Vision**.
-- Research projects in **transformer models** and **data visualization**.
+**Other Tools**:  
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)  
 
-### 🤝 I’m looking for help with
-- Deploying **Machine Learning models** at scale with optimal efficiency.
 
-### 🌱 I’m currently learning
-- Advanced concepts in **Reinforcement Learning** and **LLMs (Large Language Models)**.
-
-### 💬 Ask me about
-- AI/ML model optimization and deployment.
-- Financial trading systems using AI.
-
-### ⚡ Fun fact
-- I love connecting neural networks as much as exploring nature trails!
-
----
 
 ### 🎯 Let’s Create Something Amazing Together!
 
