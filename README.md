@@ -1,7 +1,8 @@
+<div align="center">
 
 # Hi, I'm Dhruv Gupta! 👋
 
-**Artificial Intelligence Enthusiast | Machine Learning Explorer | IT Student **
+**Artificial Intelligence Enthusiast | Machine Learning Explorer | IT Student**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
 [![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@dhruv06012)
@@ -52,10 +53,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)  
 
-
+---
 
 ### 🎯 Let’s Create Something Amazing Together!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/yourlinkedinprofile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
 
+</div>
