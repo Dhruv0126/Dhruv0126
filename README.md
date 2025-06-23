@@ -18,7 +18,7 @@
 ### 📂 Featured Projects
 
 #### [TalentScout Hiring Assistant](https://github.com/Dhruv0126/TalentScout)
--  Developed AI-driven hiring assistant automating technical candidate screening with encrypted data handling and JSON-based result storage.
+- Developed AI-driven hiring assistant automating technical candidate screening with encrypted data handling and JSON-based result storage.
    Tools: **Streamlit**, **LangChain**, **Groq API**, **Python**, **JSON**.
 
 #### [RAG ChatFlow](https://github.com/Dhruv0126/Rag_ChatFlow)
