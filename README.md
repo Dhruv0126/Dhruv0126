@@ -17,16 +17,17 @@
 
 ### 📂 Featured Projects
 
-#### [Fake Review Detection](https://github.com/Dhruv0126/Fake-Review-Detection)
-- Utilized **SVM, TF-IDF**, and explainability tools like **LIME** and **SHAP**.
-- Built with **Flask, HTML5, CSS3**, and **JavaScript** for real-time review analysis.
+#### [TalentScout Hiring Assistant](https://github.com/Dhruv0126/TalentScout)
+- Developed AI-driven hiring assistant automating technical candidate screening with encrypted data handling and JSON-based result storage.
+- Tools: **Streamlit**, **LangChain**, **Groq API**, **Python**, **JSON**.
 
-#### [Google Stock Forecasting](https://github.com/Dhruv0126/Google_Stock_Price_forecasting-)
-- Developed predictive models using **ANN (RNN)** and **LSTM**.
-- Tools: **TensorFlow, Scikit-Learn, Matplotlib**.
+#### [RAG ChatFlow](https://github.com/Dhruv0126/Rag_ChatFlow)
+- Created a Retrieval-Augmented Generation chatbot with document ingestion, chunking, and vector search to deliver grounded responses.
+- Tools: **Flask**, **Google Gemini API**, **ChromaDB**, **HTML5**, **JavaScript**.
 
-#### [Body Function Detector Analyzer](https://github.com/Dhruv0126/BodyFuncDetector_Analyzer-)
-- Real-time human movement analysis using **OpenCV, PoseNet**, and **cvzone**.
+#### [Utilities Yolov8](https://github.com/Dhruv0126/Utilities_Yolov8)
+- Built a custom YOLOv8 object detection pipeline for kitchen utilities, with an interactive Streamlit app for image/video/webcam inference.
+- Tools: **YOLOv8**, **OpenCV**, **LabelImg**, **Streamlit**, **GitHub Actions**.
 
 ---
 
