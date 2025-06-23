@@ -19,15 +19,15 @@
 
 #### [TalentScout Hiring Assistant](https://github.com/Dhruv0126/TalentScout)
 -  Developed AI-driven hiring assistant automating technical candidate screening with encrypted data handling and JSON-based result storage.
--  Tools: **Streamlit**, **LangChain**, **Groq API**, **Python**, **JSON**.
+   Tools: **Streamlit**, **LangChain**, **Groq API**, **Python**, **JSON**.
 
 #### [RAG ChatFlow](https://github.com/Dhruv0126/Rag_ChatFlow)
 -  Created a Retrieval-Augmented Generation chatbot with document ingestion, chunking, and vector search to deliver grounded responses.
--  Tools: **Flask**, **Google Gemini API**, **ChromaDB**, **HTML5**, **JavaScript**.
+   Tools: **Flask**, **Google Gemini API**, **ChromaDB**, **HTML5**, **JavaScript**.
 
 #### [Utilities Yolov8](https://github.com/Dhruv0126/Utilities_Yolov8)
 -  Built a custom YOLOv8 object detection pipeline for kitchen utilities, with an interactive Streamlit app for image/video/webcam inference.
--  Tools: **YOLOv8**, **OpenCV**, **LabelImg**, **Streamlit**, **GitHub Actions**.
+   Tools: **YOLOv8**, **OpenCV**, **LabelImg**, **Streamlit**, **GitHub Actions**.
 
 ---
 
