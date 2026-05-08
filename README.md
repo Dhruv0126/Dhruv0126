@@ -1,86 +1,36 @@
 <div align="center">
+# Hi, I’m Dhruv Gupta 👋
+**AI/ML Engineer • NLP & LLM Enthusiast • Computer Vision Explorer**
 
-# Hi, I'm Dhruv Gupta 👋
-
-**AI/ML Engineer | Python Developer | NLP & LLM Enthusiast | Computer Vision Explorer**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000)](https://dhruv-gupta.vercel.app)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruv06012@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta0126) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv06012@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-Chrome&logoColor=white)](https://dhruv-gupta.vercel.app) 
 
 ---
+👨‍🎓 2025 B.Tech (AI & DS, GPA 9.00) @ Gautam Buddha University
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0126&layout=compact&theme=radical&hide_border=true)
----
-
-### 🚀 Featured Projects
-
-#### [AI-Powered Resume Screener](https://github.com/Dhruv0126)
-AI resume screening system that parses PDF, DOCX, and TXT resumes, extracts skills and experience, and ranks candidates using TF-IDF, embeddings, and LLM scoring.  
-**Tech Stack:** React, FastAPI, Azure OpenAI, Azure Blob Storage, Redis
-
-#### [RAG ChatFlow](https://github.com/Dhruv0126/Rag_ChatFlow)
-Retrieval-Augmented Generation chatbot with document ingestion, chunking, vector search, and grounded AI responses.  
-**Tech Stack:** Flask, Google Gemini API, ChromaDB, HTML/CSS, JavaScript
-
-#### [Utilities Yolov8](https://github.com/Dhruv0126/Utilities_Yolov8)
-Custom kitchen utilities object detection pipeline with image, video, and webcam inference in a Streamlit app.  
-**Tech Stack:** YOLOv8, PyTorch, OpenCV, LabelImg, Streamlit, Google Colab
-
-#### [TalentScout Hiring Assistant](https://github.com/Dhruv0126/TalentScout)
-AI hiring assistant that automates candidate screening and generates tailored interview questions based on skills and experience.  
-**Tech Stack:** Streamlit, Groq API, Python, JSON
-
-#### [BodyFunDetector Analyzer](https://github.com/Dhruv0126)
-Real-time body function detector built for pose estimation and low-latency analysis.  
-**Tech Stack:** OpenCV, PoseNet, Python
-
----
+💡 **About Me:** Practical AI engineer experienced in building intelligent solutions.  Contributed in internships to **automate hiring workflows** and **derive analytics** from social data. Passionate about NLP, LLMs, and CV, I focus on end-to-end projects with measurable impact (e.g. speeding up candidate screening by 50% and improving analytics insight by 20%).
 
 ### 🧠 Technical Skills
+**Languages:** Python • C/C++ • SQL  
+**Frameworks:** TensorFlow • PyTorch • scikit-learn • OpenCV • LangChain  
+**Tools:** Pandas • NumPy • Matplotlib • Power BI • Streamlit • Git • VS Code  
+**Domains:** Machine Learning • Deep Learning • NLP / LLM • Computer Vision 
 
-**Programming Languages**  
-Python, SQL, C/C++
+### 🚀 Featured Projects
+- **AI-Powered Resume Screener:** End-to-end system parsing PDFs and ranking candidates by relevance. *Impact:* Automated screening cut evaluation time 50%. *(React, FastAPI, Azure OpenAI)*  
+- **RAG ChatFlow (LLM Chatbot):** Retrieval-augmented chatbot with custom document search. *Impact:* Enabled precise, context-aware responses for internal docs. *(Flask, Google Gemini API, ChromaDB)*  
 
-**AI/ML & Data Science**  
-TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, OpenCV, Streamlit, LangChain
-
-**Core Domains**  
-Machine Learning, Deep Learning, NLP, LLMs, Computer Vision
-
-**Tools & Platforms**  
-Git, VS Code, Power BI, Google Colab
-
----
+*Other projects:* Custom YOLOv8 CV pipeline; TalentScout hiring assistant (AI interview Q&A).
 
 ### 🏆 Experience
-
-**AI ML Intern — Forasoftware**  
-Built an AI-powered resume screener and a healthcare platform with dashboard, chatbot, digital prescriptions, and secure workflows.
-
-**Data Analyst Intern — Nullclass**  
-Worked on a real-time Twitter Analytical Dashboard using Power BI, ETL, and DAX queries to improve trend tracking and campaign insights.
-
----
+- **AI/ML Intern, Forasoftware** (Sept 2025 – Feb 2026) – Built an AI resume screening pipeline and a healthcare dashboard/chatbot, improving candidate sorting efficiency by 50% and enabling digital prescriptions workflows.  
+- **Data Analyst Intern, Nullclass** (Summer 2024) – Developed a real-time Twitter analytics dashboard (Power BI, ETL) leading to a 20% uptick in trend tracking and 15% better campaign insights.
 
 ### 📜 Certifications
+Data Science Specialization (LinuxWorld) • Data Analytics Simulation (Accenture/Forage) • Deploy ML Solutions (Devtown/Microsoft)
 
-- Data Science Specialization — LinuxWorld
-- Data Analytics and Visualization Job Simulation — Accenture
-- Deploy Machine Learning Solution — Devtown
-
----
-
-### 🎯 Let’s Connect
-
-I enjoy building intelligent systems in AI, ML, NLP, and Computer Vision.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
-
+### 🔗 Let’s Connect
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/Dhruv0126) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhruvgupta0126)
 </div>
