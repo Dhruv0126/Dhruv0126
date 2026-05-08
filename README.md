@@ -1,13 +1,13 @@
 <div align="center">
 # Hi, I’m Dhruv Gupta 👋
-**AI/ML Engineer • NLP & LLM Enthusiast • Computer Vision Explorer**
+""AI/ML Engineer • NLP & LLM Enthusiast • Computer Vision Explorer""
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta0126) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv06012@gmail.com) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-Chrome&logoColor=white)](https://dhruv-gupta.vercel.app) 
 
 ---
-👨‍🎓 2025 B.Tech (AI & DS, GPA 9.00) @ Gautam Buddha University
+👨‍🎓 2025 B.Tech (IT, GPA 9.00) @ Gautam Buddha University
 
 💡 **About Me:** Practical AI engineer experienced in building intelligent solutions.  Contributed in internships to **automate hiring workflows** and **derive analytics** from social data. Passionate about NLP, LLMs, and CV, I focus on end-to-end projects with measurable impact (e.g. speeding up candidate screening by 50% and improving analytics insight by 20%).
 
