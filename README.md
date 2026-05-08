@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvgupta0126) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruv06012@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-Chrome&logoColor=white)](https://dhruv-gupta.vercel.app) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-Chrome&logoColor=white)](https://dhruv-portfolio-theta.vercel.app/) 
 
 ---
 👨‍🎓 2025 B.Tech (IT, GPA 9.00) @ Gautam Buddha University
