@@ -1,64 +1,86 @@
 <div align="center">
 
-# Hi, I'm Dhruv Gupta! 👋
+# Hi, I'm Dhruv Gupta 👋
 
-**Artificial Intelligence Enthusiast | Machine Learning Explorer | IT Student**
+**AI/ML Engineer | Python Developer | NLP & LLM Enthusiast | Computer Vision Explorer**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
-[![Medium](https://img.shields.io/badge/-Medium-black)](https://medium.com/@dhruv06012)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000)](https://dhruv-gupta.vercel.app)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dhruv06012@gmail.com)
 
 ---
 
-### 📊 Dhruv's GitHub Stats
+### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0126&layout=compact&theme=radical)
 
 ---
 
-### 📂 Featured Projects
+### 🚀 Featured Projects
 
-#### [TalentScout Hiring Assistant](https://github.com/Dhruv0126/TalentScout)
-Developed AI-driven hiring assistant automating technical candidate screening with encrypted data handling and JSON-based result storage.
-   Tools: **Streamlit**, **LangChain**, **Groq API**, **Python**, **JSON**.
+#### [AI-Powered Resume Screener](https://github.com/Dhruv0126)
+AI resume screening system that parses PDF, DOCX, and TXT resumes, extracts skills and experience, and ranks candidates using TF-IDF, embeddings, and LLM scoring.  
+**Tech Stack:** React, FastAPI, Azure OpenAI, Azure Blob Storage, Redis
 
 #### [RAG ChatFlow](https://github.com/Dhruv0126/Rag_ChatFlow)
-Created a Retrieval-Augmented Generation chatbot with document ingestion, chunking, and vector search to deliver grounded responses.
-   Tools: **Flask**, **Google Gemini API**, **ChromaDB**, **HTML5**, **JavaScript**.
+Retrieval-Augmented Generation chatbot with document ingestion, chunking, vector search, and grounded AI responses.  
+**Tech Stack:** Flask, Google Gemini API, ChromaDB, HTML/CSS, JavaScript
 
 #### [Utilities Yolov8](https://github.com/Dhruv0126/Utilities_Yolov8)
-Built a custom YOLOv8 object detection pipeline for kitchen utilities, with an interactive Streamlit app for image/video/webcam inference.
-   Tools: **YOLOv8**, **OpenCV**, **LabelImg**, **Streamlit**, **GitHub Actions**.
+Custom kitchen utilities object detection pipeline with image, video, and webcam inference in a Streamlit app.  
+**Tech Stack:** YOLOv8, PyTorch, OpenCV, LabelImg, Streamlit, Google Colab
+
+#### [TalentScout Hiring Assistant](https://github.com/Dhruv0126/TalentScout)
+AI hiring assistant that automates candidate screening and generates tailored interview questions based on skills and experience.  
+**Tech Stack:** Streamlit, Groq API, Python, JSON
+
+#### [BodyFunDetector Analyzer](https://github.com/Dhruv0126)
+Real-time body function detector built for pose estimation and low-latency analysis.  
+**Tech Stack:** OpenCV, PoseNet, Python
 
 ---
 
-### 🧠 Skills
+### 🧠 Technical Skills
 
-**Programming Languages**:  
-![Python](https://img.shields.io/badge/-Python-blue?style=plastic&logo=python) 
-![C++](https://img.shields.io/badge/-C++-blue?style=plastic&logo=c%2B%2B) 
-![SQL](https://img.shields.io/badge/-SQL-yellow?style=plastic&logo=postgresql)  
+**Programming Languages**  
+Python, SQL, C/C++
 
-**AI/ML Tools**:  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=plastic&logo=tensorflow) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-f9a03c?style=plastic&logo=scikit-learn) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas) 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=plastic&logo=numpy) 
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=plastic&logo=opencv)  
+**AI/ML & Data Science**  
+TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, OpenCV, Streamlit, LangChain
 
-**Data Visualization**:  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=plastic&logo=power-bi) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=plastic&logo=python) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=plastic&logo=python)  
+**Core Domains**  
+Machine Learning, Deep Learning, NLP, LLMs, Computer Vision
 
-**Other Tools**:  
-![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git) 
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)  
+**Tools & Platforms**  
+Git, VS Code, Power BI, Google Colab
 
 ---
 
-### 🎯 Let’s Create Something Amazing Together!
+### 🏆 Experience
 
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
+**AI ML Intern — Forasoftware**  
+Built an AI-powered resume screener and a healthcare platform with dashboard, chatbot, digital prescriptions, and secure workflows.
+
+**Data Analyst Intern — Nullclass**  
+Worked on a real-time Twitter Analytical Dashboard using Power BI, ETL, and DAX queries to improve trend tracking and campaign insights.
+
+---
+
+### 📜 Certifications
+
+- Data Science Specialization — LinuxWorld
+- Data Analytics and Visualization Job Simulation — Accenture
+- Deploy Machine Learning Solution — Devtown
+
+---
+
+### 🎯 Let’s Connect
+
+I enjoy building intelligent systems in AI, ML, NLP, and Computer Vision.
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/dhruvgupta0126)
+[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/Dhruv0126)
 
 </div>
