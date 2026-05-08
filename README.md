@@ -13,9 +13,9 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0126&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Dhruv0126&show_icons=true&theme=radical&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv0126&layout=compact&theme=radical&hide_border=true)
 ---
 
 ### 🚀 Featured Projects
